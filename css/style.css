@@ -57,3 +57,8 @@
     background-color: rgb(133, 168, 233);
     float: right;
 }
+
+.debug footer {
+    background-color: rgb(110, 52, 116);
+    height: 100px;   
+}
