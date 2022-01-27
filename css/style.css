@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.debug header {
+    background-color: pink;
+    height: 100px;
+    
+}
+
+.debug .main--yellow {
+    height: 500px;
+    margin: 20px 0px;
+    background-color: rgb(244 220 136);
