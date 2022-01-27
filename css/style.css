@@ -11,7 +11,7 @@
 
 .debug header {
     background-color: pink;
-    height: 100px;
+    height: 130px;
     
 }
 
@@ -19,3 +19,41 @@
     height: 500px;
     margin: 20px 0px;
     background-color: rgb(244 220 136);
+}
+
+.debug .main--blue {
+    height: 640px;
+    margin: 20px 0px;
+    background-color: rgb(39, 81, 158);
+}
+
+.debug .header-blue {
+    height: 100px;
+    margin: 0px 0px 20px 0px;
+    background-color: rgb(133, 168, 233);
+}
+
+.debug .blue-left{
+    height: 500px;
+    width: 15%;
+    margin: 0px 15px 20px 0px;
+    background-color: rgb(133, 168, 233);
+    float: left;
+}
+
+
+.debug .blue-center {
+    height: 500px;
+    margin: 0px 0px 20px 0px;
+    background-color: rgb(133, 168, 233);
+    float: left;
+    width: 68%;
+}
+
+.debug .blue-right {
+    height: 500px;
+    width: 15%;
+    margin: 0px 0px 0px 0px;
+    background-color: rgb(133, 168, 233);
+    float: right;
+}
